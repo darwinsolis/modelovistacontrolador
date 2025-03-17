@@ -1,0 +1,10 @@
+modeloluces.Vista.ControlLuces
+modeloluces.SensorMovimiento
+luces.SistemaControlLuces
+luces.SensorMovimiento
+luces.ControlLuces
+modeloluces.ModeloLuces
+modeloluces.ControlLuces
+modeloluces.SistemaControlLuces
+modeloluces.Vista.SistemaControlLuces
+modeloluces.Vista.SensorMovimiento
